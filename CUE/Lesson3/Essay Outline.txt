@@ -1,0 +1,38 @@
+//Discuss and evaluate the extent to which street art should be promoted. Identify arguments and evidence from your own readings and the source texts below to support your position.
+
+
+[Introduction]{
+[Stance]{ Should be Promoted }
+[Background Infomation]{
+* The Definition of Street Art
+* Current suituation of the spread of Street Art (incl. Some Country which is famous in street art)
+}
+[Controversy]{
+* Not Appreciated by everybody (Good: Every body see the art / Bad: affect the street view)
+* Museum v.s. Street Art
+}
+}
+
+[Paragraph 1]{
+* Supporting Argument (Street art can educate public in an effective way), Like the values we treasured & Health reminder (AIDS@Text3)'
+// Becuz street art is opened to public, the citzen doesn't required to enter the museum to learn form the art > For Example: They can have a deeper understanding in their own society and culture to enhance the sence of identity, so on and so on
+- Edvidance
+Mexico Street Art @Text 2
+> historic principles of the Mexican Revolution, or to recent movements like the Zapatist movement, or to the ancient Aztecan culture
+The impressive street art in Athens, Greece @ Text 3
+A massive mural with colourful fingers on a bright yellow background (‘Zero Stigma’) on the wall of an old bus garage is created by an artist called KEZ. It was commissioned by a hospital and deals with the subject of AIDS
+}
+
+[Paragraph 2]{
+* Supporting Argument {Street Art can deliver the public request to the Government without only relying on the formal request}
+//The Increase in the Street Art with the same topice can arouse the interest of the Gov > Gov can start to deal with it
+//Formal Request are always processed slowly.
+-Edvidance
+}
+
+[Paragraph 3]{
+}
+
+[Conclusion]{
+
+}
