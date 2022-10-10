@@ -24,13 +24,14 @@ A massive mural with colourful fingers on a bright yellow background (‘Zero St
 }
 
 [Paragraph 2]{
-* Supporting Argument {Street Art can deliver the public request to the Government without only relying on the formal request}
+* Supporting Argument {Street Art can deliver the public requeformalst to the Government without only relying on the  request}
 //The Increase in the Street Art with the same topice can arouse the interest of the Gov > Gov can start to deal with it
 //Formal Request are always processed slowly.
 -Edvidance
 }
 
 [Paragraph 3]{
+* Cultural Diversity
 }
 
 [Conclusion]{
