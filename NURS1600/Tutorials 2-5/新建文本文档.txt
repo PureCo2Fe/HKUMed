@@ -1,0 +1,6 @@
+PP:76
+RR:14
+SP:130
+DP:
+Pain: 8/10
+Description: Keen 好hing
